@@ -63,4 +63,3 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
