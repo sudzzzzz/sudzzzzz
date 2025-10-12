@@ -40,12 +40,12 @@
 
 ### 📊 GitHub Stats :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&rank_icon=github" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rose_pine" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudzzzzz&show_icons=true&theme=rose_pine&rank_icon=github" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudzzzzz&theme=rose_pine" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudzzzzz&layout=compact&theme=rose_pine" height="140" />
 </p>
 
 ---
