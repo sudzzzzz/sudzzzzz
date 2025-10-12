@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me
-- 🎓 Currently in my 3rd year of Computer Science Engineering  
+- 🎓 Currently being Computer Science Engineering student
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI  
 - 🧩 I love solving problems with data and creativity  
 - 🌸 Learning to turn my curiosity into real-world AI projects  
