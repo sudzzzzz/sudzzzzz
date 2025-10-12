@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sudeshna</h1>
-<h3 align="center">💻 3rd Year Computer Science Engineering Student | 🤖 Aspiring AI/ML Engineer</h3>
+<h3 align="center">💻 Computer Science Engineering Student | 🤖 Aspiring AI/ML Engineer</h3>
 
 ---
 
