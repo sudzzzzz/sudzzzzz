@@ -40,12 +40,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <!-- Main GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=rose_pine&count_private=true&hide_title=true&v=2" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=rose_pine" height="160" />
+
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=rose_pine&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=rose_pine" height="140" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=rose_pine&hide_border=true" height="140" />
 </p>
 
 ---
