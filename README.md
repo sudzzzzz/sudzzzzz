@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sudeshna</h1>
+<h1 align="center">Hi there , I'm Sudeshna 🌻 </h1>
 <h3 align="center">💻 Computer Science Engineering Student | 🤖 Aspiring AI/ML Engineer</h3>
 
 ---
