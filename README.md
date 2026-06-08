@@ -34,11 +34,8 @@
 
 ### 🌐 Connect With Me :
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/sudeshna4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/your-link">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
